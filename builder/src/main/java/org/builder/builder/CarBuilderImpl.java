@@ -1,6 +1,7 @@
 package org.builder.builder;
 
 public class CarBuilderImpl implements CarBuilder {
+    // ConcreteBuilder
     private String brand;
     private String model;
     private String color;
